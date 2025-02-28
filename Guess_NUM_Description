@@ -1,0 +1,5 @@
+Guess_NUM.py is a python programmed terminal game.
+It is a "guess the number game", that randomly generates a number between 1-100
+and asks user input to guess the number, if the generated random number and user entered number are equal 
+then user wins the game.
+If the player fails after the first attempt, he's got 3 more chances to guess again.
